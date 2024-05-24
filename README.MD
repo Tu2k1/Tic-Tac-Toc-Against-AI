@@ -10,7 +10,6 @@ Welcome to the Tic Tac Toe Game! This project is a simple implementation of the 
 - [Game Rules](#game-rules)
 - [AI (Minimax Algorithm)](#ai-minimax-algorithm)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -67,8 +66,3 @@ By considering 'X' as the maximum and 'O' as the minimum, the AI can make strate
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
