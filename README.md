@@ -21,8 +21,8 @@ Welcome to the Tic Tac Toe Game! This project is a simple implementation of the 
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/yourusername/tictactoe.git
-    cd tictactoe
+    git clone https://github.com/Tu2k1/Tic-Tac-Toc-Against-AI.git
+    cd Tic-Tac-Toc-Against-AI
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
